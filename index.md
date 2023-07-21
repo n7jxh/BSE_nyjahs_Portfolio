@@ -1,5 +1,5 @@
 # Ball-Tracking Robot
-<pre>    Many times when I walked into the Makerspace where we hold robotics practice, I was greeted by the sight of my team captain pulling his hair out while trying to understand image detection. So I thought why not take a stab at it with my <b>own</b> robot that also uses image detection, but this time tries to track it as it moves. How hard could it be, right?</pre>
+Many times when I walked into the Makerspace where we hold robotics practice, I was greeted by the sight of my team captain pulling his hair out while trying to understand image detection. So I thought why not take a stab at it with my <b>own</b> robot that also uses image detection, but this time tries to track it as it moves. How hard could it be, right?
 
 | **Name** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -29,6 +29,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+Remember how I said cable management would become an issue for me in the future milestones? Well, the future was my second milestone. As I started writing the code, certain things didn't work as expected. Often times I'd write the wrong pins in the code, or end up unpluggging an important wire. I didn't want to tape the wires down yet because I knew I would continue to change the wires in the future
 For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
 - Technical details of what you've accomplished and how they contribute to the final goal
 - What has been surprising about the project so far
@@ -41,7 +42,8 @@ For your second milestone, explain what you've worked on since your previous mil
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For my first milestone, I wanted to work on the hardware aspect of the car. I put together the basic car kit, and then focused on the connections between the Raspberry Pi, the motor driver, and the battery pack. I very quickly realized the pins on the Raspberry Pi would not be enough space for all the connections needed, so I ordered and incorporated a breadboard into the system. I put all the VCC and ground wires into the positive and negative power rails respectively. I had a bit of trouble with connecting the wires to the pin— I'm new to working with wires and with the Raspberry Pi itself, so I often forgot which wires went where and what pin did what. Taking notes of what I did quickly became absolutely crucial to my success. Unfortunately I did not priortize cable mangement like I should, which presented itself as an issue in my later milestones. But now that my foundatiion was completed, it was time to work on the actual code.
+For my first milestone, I wanted to work on the hardware aspect of the car. I put together the basic car kit, and then focused on the connections between the Raspberry Pi, the motor driver, and the battery pack. I very quickly realized the pins on the Raspberry Pi would not be enough space for all the connections needed, so I ordered and incorporated a breadboard into the system. I put all the VCC and ground wires into the positive and negative power rails respectively. I had a bit of trouble with connecting the wires to the pinout board— I'm new to working with wires and with the Raspberry Pi itself, so I often forgot which wires went where and what pin did what. Taking notes of what I did quickly became absolutely crucial to my success. Unfortunately I did not priortize cable mangement like I should, which presented itself as an issue in my later milestones. 
+Along with working on the physical foundation, I worked on the foundation of my Raspberry Pi. I did a <a href="https://www.tomshardware.com/reviews/raspberry-pi-headless-setup-how-to,6028.html">headless setup</a> so that I could look at the Raspberry Pi Desktop from my computer to edit the code in their Thonny editor, since I didn't have or need a display specifically for my Raspberry Pi. Now that every aspect of my foundatiion was completed, it was time to work on the actual code.
 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
