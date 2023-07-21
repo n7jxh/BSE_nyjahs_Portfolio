@@ -41,11 +41,7 @@ For your second milestone, explain what you've worked on since your previous mil
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For your first milestone, describe what your project is and how you plan to build it. You can include:
-- An explanation about the different components of your project and how they will all integrate together
-- Technical progress you've made so far
-- Challenges you're facing and solving in your future milestones
-- What your plan is to complete your project
+For my first milestone, I wanted to work on the hardware aspect of the car. I put together the basic car kit, and then focused on the connections between the Raspberry Pi, the motor driver, and the battery pack. I very quickly realized the pins on the Raspberry Pi would not be enough space for all the connections needed, so I ordered and incorporated a breadboard into the system. I put all the VCC and ground wires into the positive and negative power rails respectively. I had a bit of trouble with connecting the wires to the pin— I'm new to working with wires and with the Raspberry Pi itself, so I often forgot which wires went where and what pin did what. Taking notes of what I did quickly became absolutely crucial to my success. Unfortunately I did not priortize cable mangement like I should, which presented itself as an issue in my later milestones. But now that my foundatiion was completed, it was time to work on the actual code.
 
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
