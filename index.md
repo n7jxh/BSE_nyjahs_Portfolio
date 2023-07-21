@@ -1,5 +1,5 @@
 # Ball-Tracking Robot
-Many times when I walked into the Makerspace where we hold robotics practice, I was greeted by the sight of my team captain pulling his hair out while trying to understand image detection. So I thought why not take a stab at it with my <b> own <b> robot that also uses image detection, but this time tries to track it as it moves. How hard could it be, right?
+Many times when I walked into the Makerspace where we hold robotics practice, I was greeted by the sight of my team captain pulling his hair out while trying to understand image detection. So I thought why not take a stab at it with my <b>own</b> robot that also uses image detection, but this time tries to track it as it moves. How hard could it be, right?
 
 | **Name** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
