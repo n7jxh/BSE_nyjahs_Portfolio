@@ -55,7 +55,7 @@ Here's where you'll put images of your schematics. [Tinkercad](https://www.tinke
 # Code
 Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
 
-```c++
+```python
 void setup() {
   // put your setup code here, to run once:
   Serial.begin(9600);
@@ -78,11 +78,5 @@ void loop() {
 | Soldering Kit | What the item is used for | $17.99 | <a href="https://www.amazon.com/Soldering-Iron-Kit-Temperature-Desoldering/dp/B07S61WT16/ref=sr_1_6?crid=3PT39V64H24MG&keywords=soldering+kit&qid=1689858115&s=industrial&sprefix=soldering+kit%2Cindustrial%2C89&sr=1-6"> Amazon </a> |
 | Mini Solderless Breadboard | What the item is used for | $7.45 for 3 | <a href="https://www.amazon.com/HiLetgo-Solderless-Breadboard-Circuit-Prototyping/dp/B00LSG5BJK/ref=sr_1_6?crid=1MFE7HDZU058H&keywords=solderless+breadboard&qid=1689858234&s=industrial&sprefix=solderless+breadboard%2Cindustrial%2C76&sr=1-6"> Amazon </a> |
 | Ultrasonic Sensors | Used to sense the ball and calculate the distance to it. | $8.99 | <a href="https://www.amazon.com/ELEGOO-HC-SR04-Ultrasonic-Distance-MEGA2560/dp/B01COSN7O6/ref=sr_1_1_sspa?crid=1E3L0NTD1MSQB&keywords=ultrasonic+sensors&qid=1689859122&s=industrial&sprefix=ultrasonic+sensors%2Cindustrial%2C83&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"> Amazon </a> |
+| Arducam | The camera for the Raspberry Pi, used to 'see' the ball. | $9.99 | <a href="https://www.amazon.com/Arducam-Megapixels-Sensor-OV5647-Raspberry/dp/B012V1HEP4/ref=sr_1_1_sspa?keywords=raspberry+pi+camera&qid=1689946690&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"> Amazon </a> |
 
-# Other Resources/Examples
-One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
-- [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
-- [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
-- [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
-
-To watch the BSE tutorial on how to create a portfolio, click here.
