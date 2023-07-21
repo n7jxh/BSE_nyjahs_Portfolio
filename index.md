@@ -29,7 +29,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Remember how I said cable management would become an issue for me in the future milestones? Well, the future was my second milestone. As I started writing the code, certain things didn't work as expected. Often times I'd write the wrong pins in the code, or end up unpluggging an important wire. I didn't want to tape the wires down yet because I knew I would continue to change the wires in the future
+Remember how I said cable management would become an issue for me in the future milestones? Well, the future was my second milestone. As I started writing the code, certain things didn't work as expected. Often times I'd write the wrong pins in the code, or end up unpluggging an important wire. I didn't want to tape the wires down yet because I knew I would continue to change the wires in the future, so I just kept on going in spite of that.<br><br>
 For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
 - Technical details of what you've accomplished and how they contribute to the final goal
 - What has been surprising about the project so far
