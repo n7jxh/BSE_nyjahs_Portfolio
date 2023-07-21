@@ -51,7 +51,7 @@ For your first milestone, describe what your project is and how you plan to buil
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
 
 # Code
-Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
+This is the final version of the code used in the robot.
 
 ```python
 # import the necessary packages
@@ -366,5 +366,5 @@ GPIO.cleanup() #free all the GPIO pins
 | Mini Solderless Breadboard | To allow for more space for the wires to power the system. | $7.45 for 3 | <a href="https://www.amazon.com/HiLetgo-Solderless-Breadboard-Circuit-Prototyping/dp/B00LSG5BJK/ref=sr_1_6?crid=1MFE7HDZU058H&keywords=solderless+breadboard&qid=1689858234&s=industrial&sprefix=solderless+breadboard%2Cindustrial%2C76&sr=1-6"> Amazon </a> |
 | Ultrasonic Sensors | Used to sense the ball and calculate the distance to it. | $8.99 | <a href="https://www.amazon.com/ELEGOO-HC-SR04-Ultrasonic-Distance-MEGA2560/dp/B01COSN7O6/ref=sr_1_1_sspa?crid=1E3L0NTD1MSQB&keywords=ultrasonic+sensors&qid=1689859122&s=industrial&sprefix=ultrasonic+sensors%2Cindustrial%2C83&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"> Amazon </a> |
 | Arducam | The camera for the Raspberry Pi, used to 'see' the ball. | $9.99 | <a href="https://www.amazon.com/Arducam-Megapixels-Sensor-OV5647-Raspberry/dp/B012V1HEP4/ref=sr_1_1_sspa?keywords=raspberry+pi+camera&qid=1689946690&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"> Amazon </a> |
-| Portable Charger | Powers the Raspberry Pi | $16.99 | <a href="https://www.amazon.com/EnergyQC-Portable-Ultra-Compact-Compatible-More-Black/dp/B09Z6T7FQ8/ref=sr_1_5?crid=3A5XIO61UQSG2&keywords=black%2Bcylindrical%2Bportable%2Bphone%2Bcharger&qid=1689949013&sprefix=black%2Bcylindrical%2Bportable%2Bphone%2Bcharger%2Caps%2C154&sr=8-5&th=1"> Amazon </a> |
+| Portable Charger | Powers the Raspberry Pi. | $16.99 | <a href="https://www.amazon.com/EnergyQC-Portable-Ultra-Compact-Compatible-More-Black/dp/B09Z6T7FQ8/ref=sr_1_5?crid=3A5XIO61UQSG2&keywords=black%2Bcylindrical%2Bportable%2Bphone%2Bcharger&qid=1689949013&sprefix=black%2Bcylindrical%2Bportable%2Bphone%2Bcharger%2Caps%2C154&sr=8-5&th=1"> Amazon </a> |
 
