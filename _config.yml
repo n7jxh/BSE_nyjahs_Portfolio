@@ -1,7 +1,6 @@
-remote_theme: pages-themes/merlot@v0.2.0
+remote_theme: pages-themes/dinky@v0.2.0
 plugins:
 - jekyll-remote-theme
-title: Ball-Tracking Robot with Open CV and Raspberry Pi
 description: A site describing how I made a ball-tracking robot using Raspberry Pi and Open CV.
 markdown: kramdown
 
